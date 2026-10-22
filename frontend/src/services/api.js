@@ -7,7 +7,7 @@ import axios from 'axios';
 // ⚠️ ACTION REQUIRED BEFORE SUBMISSION/DEPLOY: replace PRODUCTION_API_BASE
 // below with your real deployed backend URL (e.g. Render), no trailing slash.
 // You can also just set VITE_API_BASE in a .env file to override both.
-const PRODUCTION_API_BASE = 'https://YOUR-BACKEND.onrender.com'; // TODO: replace before submission
+const PRODUCTION_API_BASE = 'https://cse4104-7c-t05-ai-academic-mentor.onrender.com'; // TODO: replace before submission
 
 export const API_BASE =
   import.meta.env.VITE_API_BASE ||
